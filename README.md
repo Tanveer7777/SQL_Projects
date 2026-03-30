@@ -3,7 +3,7 @@
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
-## Analyzing Employee Trends
+## 1.Analyzing Employee Trends
 
  [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql) 
  
@@ -27,7 +27,7 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 - Compared averages and aggregates across different employee segments and criteria
 
-# SQL Retail Sales Analysis
+# 2.SQL Retail Sales Analysis
 
 ## Project Description
 
