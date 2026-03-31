@@ -16,7 +16,7 @@ GROUP BY department;
 SELECT department, job_role, COUNT(*) AS role_count
 FROM hrdata
 GROUP BY department, job_role
-ORDER BY department, role_count DESC;
+ORDER BY role_count DESC;
 
 --- 4. Calculate the average job satisfaction for each education level ---
 SELECT education, AVG(job_satisfaction) AS average_satisfaction
@@ -28,7 +28,7 @@ SELECT job_satisfaction, AVG(age) AS average_age
 FROM hrdata
 GROUP BY job_satisfaction;
 
---- 6. Calculate the attrition rate for each age band --
+--- 6. Calculate the attrition rate for each age band ---
 SELECT age_band, SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100 AS attrition_rate
 FROM hrdata
 GROUP BY age_band;
