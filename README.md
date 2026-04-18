@@ -77,3 +77,27 @@ SQL was used to clean the data, explore patterns and answer business-related que
 
 - Organized and presented findings in a clear format for consumption by leadership
 
+3. MediCare India - Hospital & Patient Analysis
+
+### Project Description
+
+This project focuses on analyzing hospital data using SQL to extract insights related to patient activity,
+doctor performance, and revenue trends. The dataset includes information on patients, doctors and appointments, covering billing, diagnoses
+and payment modes.
+
+SQL was used to explore the dataset, identify patterns
+and answer business questions to support operational and financial decision making.
+
+### Tasks Performed
+
+- Performed data exploration and validation on hospital dataset  
+- Analyzed patient distribution and appointment status trends  
+- Calculated total revenue generated from completed appointments  
+- Identified departments with highest number of doctors  
+- Determined most commonly used payment modes  
+- Evaluated doctor performance based on revenue contribution  
+- Calculated average billing across departments  
+- Identified repeat patients for retention analysis  
+- Detected patients with no completed appointments (inactive users)  
+- Used SQL concepts like JOINS, GROUP BY, HAVING, and aggregate functions  
+- Structured queries to answer real-world business problems  
