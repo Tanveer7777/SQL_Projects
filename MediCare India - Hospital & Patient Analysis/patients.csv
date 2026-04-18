@@ -1,0 +1,21 @@
+patient_id,patient_name,age,gender,city,blood_group
+1,Aarav Sharma,34,Male,Mumbai,A+
+2,Priya Patel,28,Female,Ahmedabad,B+
+3,Rohit Verma,45,Male,Delhi,O+
+4,Sneha Iyer,31,Female,Chennai,AB+
+5,Vikram Singh,52,Male,Jaipur,A-
+6,Ananya Reddy,27,Female,Hyderabad,B-
+7,Karan Mehta,60,Male,Bangalore,O+
+8,Deepika Nair,38,Female,Kochi,A+
+9,Arjun Gupta,47,Male,Lucknow,B+
+10,Meera Joshi,29,Female,Pune,O-
+11,Rahul Kumar,55,Male,Patna,A+
+12,Pooja Desai,42,Female,Surat,AB-
+13,Nikhil Rao,36,Male,Bangalore,B+
+14,Kavya Pillai,23,Female,Kochi,O+
+15,Amit Tiwari,58,Male,Bhopal,A+
+16,Shreya Bose,33,Female,Kolkata,B+
+17,Manish Yadav,49,Male,Kanpur,O+
+18,Ritu Agarwal,26,Female,Delhi,A-
+19,Sanjay Naik,63,Male,Goa,AB+
+20,Lakshmi Menon,40,Female,Chennai,B+

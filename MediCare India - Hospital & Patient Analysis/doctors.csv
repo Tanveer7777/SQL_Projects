@@ -1,0 +1,11 @@
+doctor_id,doctor_name,department,experience_yrs,consultation_fee
+1,Dr. Ramesh Iyer,Cardiology,18,1500.0
+2,Dr. Sunita Kapoor,Neurology,12,1800.0
+3,Dr. Ajay Bhatia,Orthopedics,10,1200.0
+4,Dr. Preethi Nair,Gynecology,8,1000.0
+5,Dr. Manoj Sharma,ENT,6,800.0
+6,Dr. Anita Rao,Dermatology,9,900.0
+7,Dr. Vikash Gupta,Cardiology,15,1400.0
+8,Dr. Kavitha Menon,Pediatrics,7,750.0
+9,Dr. Suresh Pillai,Orthopedics,11,1100.0
+10,Dr. Divya Chandran,Neurology,14,1600.0
